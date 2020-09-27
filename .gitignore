@@ -1,0 +1,10 @@
+*.class
+*.iml
+*.ipr
+*.iws
+build/
+out/
+.idea/
+.gradle/
+gradle
+.vertx
